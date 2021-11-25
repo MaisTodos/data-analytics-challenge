@@ -19,6 +19,7 @@ Dicionário de dados
 - payment_amount: valor do pagamento
 
 A base está em CSV, neste link:
+https://github.com/MaisTodos/data-analytics-challenge/blob/main/teste_tecnico.csv.zip
 
 
 Problemas
