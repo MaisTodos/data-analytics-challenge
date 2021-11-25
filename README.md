@@ -31,5 +31,10 @@ Problemas
 4. Considerando as taxas: cielo com 0,05, a rede 0,065, adyen 0,123, pagseguro 0,04. Qual processadora é mais rentável para o sistema considerando valor arrecadado e pago.
 5. Qual foi a retentativa(payment_attempt > 1) e processadora que mais converteram.
 6. Qual foi o payment_code com maior aprovação em retentativas
-7. Qual foi o payment_code com menor aprovação em retentativas
-8. Qual o melhor dia de pagamento por payment_attempt
+
+
+Boa sorte, Equipe MaisTodos!
+
+![Luck](https://media.giphy.com/media/l49JHz7kJvl6MCj3G/giphy.gif)
+8. Qual foi o payment_code com menor aprovação em retentativas
+9. Qual o melhor dia de pagamento por payment_attempt
