@@ -35,6 +35,13 @@ Problemas
 8. Qual o melhor dia de pagamento por payment_attempt
 
 
+Pontos de Atenção
+=================
+
+A resolução deve ser entregue da forma que preferir, mais recomendamos fortemente utilizar o **jupyter** (https://jupyter.org/). É interessante documentar de forma  que o time conseguisse refazer os passos para a resolução.
+Fique livre para nos contatar em caso de dúvidas, sugestões ou problemas encontrados.
+
+
 Boa sorte, Equipe MaisTodos!
 
 ![Luck](https://media.giphy.com/media/l49JHz7kJvl6MCj3G/giphy.gif)
